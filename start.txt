@@ -1,0 +1,2 @@
+Im creating a file and this ECHO is the command to add text to file created
+adding a newline/n \n
